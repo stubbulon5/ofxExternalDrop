@@ -1,5 +1,5 @@
 # ofxExternalDrop
-Cross platform External Drag and Drop functionality for openFrameworks. macOs currently the only functioning implementation. 
+Cross platform External Drag and Drop addon for openFrameworks. macOs currently the only functioning implementation. 
 
 I invite the oF community to help out here...
 
