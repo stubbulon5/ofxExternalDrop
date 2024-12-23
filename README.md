@@ -11,7 +11,7 @@ An example usage for this is having your app generate a Midi file during DnD ope
 # Example usage
 ## ofApp.cpp
 Use the mousePressed, dragEvent and mouseReleased methods. It's that simple :)
-```
+```cpp
 //--------------------------------------------------------------
 void ofApp::mousePressed(int x, int y, int button){
     if (!ofApp::externalDrop.getIsDragging())
